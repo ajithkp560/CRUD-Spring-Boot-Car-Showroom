@@ -11,7 +11,7 @@
 	<groupId>com.blogspot.terminalcoders</groupId>
 	<artifactId>CarShowRoomManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>CarShowRoom</name>
 	<description>Car Showroom Management</description>
 	<url/>
